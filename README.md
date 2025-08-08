@@ -43,6 +43,11 @@ Always ensure you have **explicit written consent** before running any tests.
 MIT License – free to use, modify, and distribute under the terms of the license.
 
 ---
+## 📥 Installation
+
+```bash
+git clone https://github.com/arisksec/ariskan.git
+cd ariskan
 
 ## 🛠 Example Usage
 
