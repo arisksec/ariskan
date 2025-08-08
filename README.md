@@ -1,6 +1,6 @@
 # ariskan
 
-**ariskan** is an advanced Reconnaissance Framework designed for **legal and ethical security testing**.
+**ariskan** is an advanced Reconnaissance Framework designed for **legal security testing**.
 Its main purpose is to automatically gather as much information as possible about a web target in order to identify potential areas of weakness.
 
 ---
