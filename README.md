@@ -5,7 +5,7 @@ Its main purpose is to automatically gather as much information as possible abou
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 The framework operates in multiple stages:
 
@@ -23,14 +23,14 @@ The framework operates in multiple stages:
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 In short, **ariskan** automates the **first crucial phase** of a security assessment.
 It builds a **detailed map** of the target and **flags interesting areas**, allowing a security professional to focus manual testing efforts on the most promising spots.
 
 ---
 
-## ⚠️ Legal Notice
+## Legal Notice
 
 This tool is **strictly for authorized testing only**.
 Using **ariskan** on targets without prior permission is **illegal** and could lead to severe consequences.
@@ -38,22 +38,23 @@ Always ensure you have **explicit written consent** before running any tests.
 
 ---
 
-## 📜 License
+##  License
 
 MIT License – free to use, modify, and distribute under the terms of the license.
 
 ---
 
 
-## 🛠 Example Usage
-
-```bash
-python3 ariskan.py -u https://target.com
-```
-
-## 📥 Installation
+##  Installation
 
 ```bash
 git clone https://github.com/arisksec/ariskan.git
 cd ariskan
----
+
+```
+
+##  Example Usage 
+
+```bash
+python3 ariskan.py -u https://target.com
+ 
