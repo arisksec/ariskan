@@ -7,10 +7,12 @@ import re
 import time
 import random
 from urllib.parse import urljoin, urlparse
-import queue
-import threading
+import asyncio
+import aiohttp
 import math
 from collections import Counter
+import os
+import ssl
 
 # --- Color Definitions for Terminal Output ---
 class Colors:
